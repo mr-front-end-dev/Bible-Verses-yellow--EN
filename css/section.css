@@ -2,11 +2,11 @@
   padding: 15px;
 }
 
-.section--h1 {
+.section__h1 {
   text-align: center;
 }
 
-.section--paragraph {
+.section__paragraph {
   font-size: 20px;
   padding: 5px;
 }
